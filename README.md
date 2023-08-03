@@ -1,6 +1,6 @@
 # Mizuki LTD
 
-<img src="./pic_1.png">
+<img src="./pic_1_2.png">
 <img src="./pic_2.png">
 <img src="./pic_3.png">
 <img src="./pic_4.png">
