@@ -5,4 +5,4 @@
 <img src="./pic_3.png">
 <img src="./pic_4.png">
 <img src="./pic_5.png">
-<img src="./pic_6.png">
+<img src="./pic_6_2.png">
